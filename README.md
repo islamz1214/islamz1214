@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I'm Zahid 👋
 
-<!--
-**islamz1214/islamz1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior QA Engineer with close to a decade of experience, currently at Accenture 
+Federal Services, working toward QA Principal Engineer. I design quality systems 
+that help engineering teams ship with confidence — focused on test automation, 
+AI-enhanced QA workflows, and solving release bottlenecks inside Agile/SAFe teams.
 
-Here are some ideas to get you started:
+🔍 I like digging into how QA processes actually break down — then automating, 
+documenting, or fixing the gap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently building:** [Mint TCMS](https://github.com/islamz1214/mint-tcms) — 
+  an open source test case management system (NestJS + Next.js) with AI-powered 
+  test generation, reporting, and org/role-based access
+- 🌱 **Coming soon:** QA case studies and guides — automation architecture, CI 
+  quality gates, and AI-assisted QA in Agile delivery teams
+- 🎯 **Goal:** QA Principal Engineer — scaling good QA practice across teams, 
+  not just individual test cases
+- 🧰 **Stack:** Playwright · Node.js · GitHub Actions · Jira · Zephyr Scale · AWS
+- 💬 **Ask me about:** test automation, Jira automation, SAFe Agile QA process, 
+  test case management
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/zahidul-islam-04969362) · 
+  [Portfolio](https://islamz1214.github.io)
+
+---
+📂 **Featured project:** [Mint TCMS](https://github.com/islamz1214/mint-tcms) — 
+open source AI-powered test case management, built for QA engineers
